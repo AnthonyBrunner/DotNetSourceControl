@@ -8,3 +8,4 @@ for CPW 155
 
 ## Getting Started
 - Clone the repo in VS 2026
+- Utilize the (up|down 0/0) icon in the bottom right corner to push 
