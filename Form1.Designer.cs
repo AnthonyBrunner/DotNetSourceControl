@@ -39,6 +39,7 @@
             btnGreeting.TabIndex = 0;
             btnGreeting.Text = "Click this button";
             btnGreeting.UseVisualStyleBackColor = true;
+            btnGreeting.Click += btnGreeting_Click;
             // 
             // Form1
             // 
